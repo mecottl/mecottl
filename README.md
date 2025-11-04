@@ -1,8 +1,6 @@
-# 👋 ¡Hola! Soy Mecott
+# Gerardo Mecott
 
 🎓 Ingeniero en Sistemas Computacionales | 💻 Full Stack Developer en formación  
-🌎 Apasionado por la tecnología, la enseñanza y el desarrollo de proyectos con impacto
-
 ---
 
 ## 🚀 Sobre mí
@@ -10,7 +8,7 @@
 - 👨‍🎓 Actualmente estudio Ingeniería en Sistemas Computacionales
 - 🧠 Me gusta construir proyectos que mezclen funcionalidad con buen diseño
 - 👥 Lidero un grupo de aprendizaje para formar desarrolladores full stack desde cero
-- 🤖 Me encanta integrar IA en mis proyectos y experimentar con nuevas herramientas
+- 🤖 Integrando IA en mis proyectos y experimentar con nuevas herramientas
 - 📚 Siempre estoy aprendiendo algo nuevo — ya sea React, Node.js, Astro o SQL
 
 ---
@@ -21,7 +19,7 @@
 Bloc de notas inteligente con autocompletado basado en IA, desarrollado con React y Node.js.
 
 ### 🔹 [RecurStack](https://github.com/mecottl/RecurStack)
-Biblioteca interactiva de recursos para programadores, construida con Astro y TypeScript.
+Biblioteca interactiva de recursos para programadores, construida con Astro.
 
 ---
 
