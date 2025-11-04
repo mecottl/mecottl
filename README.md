@@ -40,7 +40,7 @@ Biblioteca interactiva de recursos para programadores, construida con Astro.
 ## 📫 Contáctame
 
 - 📧 Email: gerardomecott@outlook.com
-- 🌐 Portafolio: [gerardomecott.com]([https://tuportafolio.com](https://gerardomecott.vercel.app/))  
+- 🌐 Portafolio: [gerardomecott.vercel.app]([https://gerardomecott.vercel.app](https://gerardomecott.vercel.app/))  
 - 📱 instagram: [@mecottl](https://www.instagram.com/mecottl)
 
 ---
