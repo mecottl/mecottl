@@ -26,8 +26,8 @@ Biblioteca interactiva de recursos para programadores, construida con Astro.
 ## 🛠 Tecnologías que uso
 
 - *Frontend*: HTML, CSS, JavaScript, React, Astro
-- *Backend*: Node.js, Express, SQLite
-- *Otras herramientas*: Git, GitHub, Vite
+- *Backend*: Node.js, Express, SQLite, PostgreSQL
+- *Otras herramientas*: Git, GitHub, Vite, Vercel, Supabase
 
 ---
 
