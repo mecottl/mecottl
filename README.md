@@ -7,10 +7,8 @@
 
 - 👨‍🎓 Actualmente estudio Ingeniería en Sistemas Computacionales
 - 🧠 Me gusta construir proyectos que mezclen funcionalidad con buen diseño
-- 👥 Lidero un grupo de aprendizaje para formar desarrolladores full stack desde cero
-- 🤖 Integrando IA en mis proyectos y experimentar con nuevas herramientas
-- 📚 Siempre estoy aprendiendo algo nuevo — ya sea React, Node.js, Astro o SQL
-
+- 👥 Lidero un grupo de aprendizaje para formar desarrolladores full stack desde cero.
+- 
 ---
 
 ## 🧩 Proyectos destacados
