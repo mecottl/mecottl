@@ -1,17 +1,17 @@
 # Gerardo Mecott
 
-🎓 Ingeniero en Sistemas Computacionales | 💻 Full Stack Developer en formación  
+ Ingeniero en Sistemas Computacionales | 💻 Full Stack Developer en formación  
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
-- 👨‍🎓 Actualmente estudio Ingeniería en Sistemas Computacionales
-- 🧠 Me gusta construir proyectos que mezclen funcionalidad con buen diseño
-- 👥 Lidero un grupo de aprendizaje para formar desarrolladores full stack desde cero.
+-  Actualmente estudio Ingeniería en Sistemas Computacionales
+-  Me gusta construir proyectos que mezclen funcionalidad con buen diseño
+-  Lidero un grupo de aprendizaje para formar desarrolladores full stack desde cero.
 - 
 ---
 
-## 🧩 Proyectos destacados
+##  Proyectos destacados
 
 ### 🔹 [NoteFlow](https://github.com/mecottl/NoteFlow)
 Bloc de notas inteligente con autocompletado basado en IA, desarrollado con React y Node.js.
@@ -21,25 +21,25 @@ Biblioteca interactiva de recursos para programadores, construida con Astro.
 
 ---
 
-## 🛠 Tecnologías que uso
+##  Tecnologías que uso
 
-- *Frontend*: HTML, CSS, JavaScript, React, Astro
+- *Frontend*: HTML, CSS, JavaScript, React, Astro, Angular
 - *Backend*: Node.js, Express, SQLite, PostgreSQL
 - *Otras herramientas*: Git, GitHub, Vite, Vercel, Supabase
 
 ---
 
-## 📈 Estadísticas
+##  Estadísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mecottl&show_icons=true&theme=github_dark&hide_title=true)
 
 ---
 
-## 📫 Contáctame
+## Contáctame
 
-- 📧 Email: gerardomecott@outlook.com
-- 🌐 Portafolio: [gerardomecott](https://gerardomecott.vercel.app/) 
-- 📱 instagram: [@mecottl](https://www.instagram.com/mecottl)
+- Email: gerardomecott@outlook.com
+-  Portafolio: [gerardomecott](https://gerardomecott.vercel.app/) 
+-  instagram: [@mecottl](https://www.instagram.com/mecottl)
 
 ---
 
