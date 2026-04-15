@@ -1,45 +1,34 @@
-# Gerardo Mecott
+# Mecottl
 
- Ingeniero en Sistemas Computacionales | 💻 Full Stack Developer en formación  
----
+Welcome to the Mecottl project! 🎉  
+This project is aimed at providing a robust solution for ... (your project description).
 
-##  Sobre mí
+## Color Palette
+### Primary Colors
+- ![#FF5733](https://via.placeholder.com/15/FF5733/000000?text=+) `#FF5733`
+- ![#33FF57](https://via.placeholder.com/15/33FF57/000000?text=+) `#33FF57`
 
--  Actualmente estudio Ingeniería en Sistemas Computacionales
--  Me gusta construir proyectos que mezclen funcionalidad con buen diseño
--  Lidero un grupo de aprendizaje para formar desarrolladores full stack desde cero.
-- 
----
+### Secondary Colors
+- ![#3357FF](https://via.placeholder.com/15/3357FF/000000?text=+) `#3357FF`
+- ![#F0F0F0](https://via.placeholder.com/15/F0F0F0/000000?text=+) `#F0F0F0`
 
-##  Proyectos destacados
+## Technology Badges
+![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-33FF57?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-3357FF?style=flat&logo=javascript&logoColor=white)  
 
-### 🔹 [NoteFlow](https://github.com/mecottl/NoteFlow)
-Bloc de notas inteligente con autocompletado basado en IA, desarrollado con React y Node.js.
+## Features
+- Feature 1  
+- Feature 2  
+- Feature 3  
 
-### 🔹 [RecurStack](https://github.com/mecottl/RecurStack)
-Biblioteca interactiva de recursos para programadores, construida con Astro.
+## Installation
+1. Step 1  
+2. Step 2  
+3. Step 3  
 
----
+## Contributing
+We welcome contributions from everyone! Please check out our [contributing guide](CONTRIBUTING.md) for more details.  
 
-##  Tecnologías que uso
-
-- *Frontend*: HTML, CSS, JavaScript, React, Astro, Angular
-- *Backend*: Node.js, Express, SQLite, PostgreSQL
-- *Otras herramientas*: Git, GitHub, Vite, Vercel, Supabase
-
----
-
-##  Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mecottl&show_icons=true&theme=github_dark&hide_title=true)
-
----
-
-## Contáctame
-
-- Email: gerardomecott@outlook.com
--  Portafolio: [gerardomecott](https://gerardomecott.vercel.app/) 
--  instagram: [@mecottl](https://www.instagram.com/mecottl)
-
----
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
