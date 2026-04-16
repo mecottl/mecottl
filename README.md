@@ -8,7 +8,7 @@
 
 ### Paleta de colores
 <p align="center">
-  <img src="./assets/colors/primary.png" width="400"/>
+  <img src="./assets/palette.svg width="400"/>
 </p>
 
 ---
