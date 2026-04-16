@@ -84,6 +84,8 @@ Construyo soluciones tecnológicas enfocadas en eficiencia, organización y dise
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40"/>
+<img src="https://www.prisma.io/favicon.ico?favicon.f8f1f26e.ico" height="40"/>
+  
 </td>
 
 <td align="center" width="250">
