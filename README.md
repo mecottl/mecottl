@@ -1,34 +1,60 @@
-# Mecottl
+# ✨ Mecottl
 
-Welcome to the Mecottl project! 🎉  
-This project is aimed at providing a robust solution for ... (your project description).
+> Biblioteca interactiva de recursos para programadores.
 
-## Color Palette
-### Primary Colors
-- ![#FF5733](https://via.placeholder.com/15/FF5733/000000?text=+) `#FF5733`
-- ![#33FF57](https://via.placeholder.com/15/33FF57/000000?text=+) `#33FF57`
+---
 
-### Secondary Colors
-- ![#3357FF](https://via.placeholder.com/15/3357FF/000000?text=+) `#3357FF`
-- ![#F0F0F0](https://via.placeholder.com/15/F0F0F0/000000?text=+) `#F0F0F0`
+## 🎨 Identidad visual
 
-## Technology Badges
-![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-33FF57?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-3357FF?style=flat&logo=javascript&logoColor=white)  
+### Paleta de colores
+<p align="center">
+  <img src="./assets/colors/primary.png" width="400"/>
+</p>
 
-## Features
-- Feature 1  
-- Feature 2  
-- Feature 3  
+---
 
-## Installation
-1. Step 1  
-2. Step 2  
-3. Step 3  
+## 🚀 Tecnologías
 
-## Contributing
-We welcome contributions from everyone! Please check out our [contributing guide](CONTRIBUTING.md) for more details.  
+### 🧠 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://astro.build/assets/press/astro-icon-light.svg" height="40"/>
+</p>
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### ⚙️ Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+</p>
+
+### 🛠️ Herramientas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://vitejs.dev/logo.svg" height="40"/>
+  <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="40"/>
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="40"/>
+</p>
+
+---
+
+## 📦 Características
+
+- 🔎 Exploración de recursos para devs  
+- ⚡ Interfaz rápida con Astro  
+- 🧠 Enfoque en aprendizaje y productividad  
+
+---
+
+## 🛠️ Instalación
+
+```bash
+git clone https://github.com/tuusuario/mecottl.git
+cd mecottl
+npm install
+npm run dev
