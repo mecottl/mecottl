@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=1A0A2E&text=Gerardo%20Mecott&section=header&reversal=true&descAlign=62&fontColor=E0E6FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=1A0A2E&text=Gerardo%20Mecott&fontColor=E0E6FF&reversal=false&textBg=false&fontAlign=50&animation=twinkling&rotate=-7&stroke=1A0A2E0a&strokeWidth=2&descAlign=0&descAlignY=52"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=false&width=436&lines=Full+Stack+Developer" alt="Typing SVG" />
   <br/>
-  Building scalable apps · Focused on clean design · Always learning
+  Vibrando con el código · Diseño limpio · Continuo aprendizaje
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## Sobre mí
 
 <p>
-Ingeniero en Sistemas Computacionales, enfocado en el desarrollo y la optimización de soluciones tecnológicas. Interesado en la productividad, la organización y el aprendizaje continuo, con afinidad por la estética urbana y el pensamiento estructurado.
+Construyo soluciones tecnológicas enfocadas en eficiencia, organización y diseño funcional, con una mentalidad estructurada y enfoque en crecimiento continuo.
 
 - Ingeniero en Sistemas Computacionales  
 - Lidero un equipo de aprendizaje enfocado en desarrollo full stack desde cero  
@@ -21,14 +21,11 @@ Ingeniero en Sistemas Computacionales, enfocado en el desarrollo y la optimizaci
 
 ## Proyectos principales
 
-- **RecurStack**  
-  Plataforma enfocada en la gestión de recursos, optimizando flujos de trabajo en entornos de desarrollo.
-
-- **NoteFlow**  
-  Aplicación de productividad para la gestión de notas y organización de ideas, diseñada para mejorar el flujo de trabajo personal con inteligencia artificial.
-
-- **MayaCleanPOS**  
-  Sistema POS orientado a negocios de servicios de limpieza, enfocado en la gestión eficiente de ventas, clientes y operaciones.
+<p align="center">
+<a href="https://github.com/mecottl/recurstack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mecottl&repo=recurstack&theme=midnight-purple&hide_border=true"/></a>
+<a href="https://github.com/mecottl/noteflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mecottl&repo=noteflow&theme=midnight-purple&hide_border=true"/></a> 
+<a href="https://github.com/mecottl/mayacleanpos"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mecottl&repo=mayacleanpos&theme=midnight-purple&hide_border=true"/></a><br>
+</p>
 
 ---
 
@@ -124,7 +121,19 @@ Ingeniero en Sistemas Computacionales, enfocado en el desarrollo y la optimizaci
 </p>
 
 ---
-## Contact
+
+## Paleta de colores
+
+<p align="center">
+  <img src="./assets/palette.svg" width="60%"/>
+  <br>
+  Mi paleta de colores personal y de preferencia
+  
+</p>
+
+---
+
+## Contacto
 
 <p align="center">
   <a href="mailto:gerardomecott@outlook.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/></a>
@@ -137,16 +146,6 @@ Ingeniero en Sistemas Computacionales, enfocado en el desarrollo y la optimizaci
 
 <p align="center">
   Email  •  Portfolio  •  @mecottl
-</p>
-    
----
-
-## Paleta de colores
-
-<p align="center">
-  <p align="">Mi paleta de colores personal y de preferencia</p>
-  
-  <img src="./assets/palette.svg" width="80%"/>
 </p>
 
 ---
