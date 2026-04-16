@@ -22,9 +22,10 @@ Construyo soluciones tecnológicas enfocadas en eficiencia, organización y dise
 ## Proyectos principales
 
 <p align="center">
-<a href="https://github.com/mecottl/recurstack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mecottl&repo=recurstack&theme=midnight-purple&hide_border=true"/></a>
-<a href="https://github.com/mecottl/noteflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mecottl&repo=noteflow&theme=midnight-purple&hide_border=true"/></a> 
-<a href="https://github.com/mecottl/mayacleanpos"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mecottl&repo=mayacleanpos&theme=midnight-purple&hide_border=true"/></a><br>
+<a href="https://github.com/mecottl/app-recurstack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mecottl&repo=recurstack&theme=midnight-purple&hide_border=true"/></a>
+<a href="https://github.com/mecottl/app-noteflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mecottl&repo=noteflow&theme=midnight-purple&hide_border=true"/></a> 
+<a href="https://github.com/mecottl/app-mayacleanpos"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mecottl&repo=mayacleanpos&theme=midnight-purple&hide_border=true"/></a>
+<a href="https://github.com/mecottl/app-whoami"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mecottl&repo=app-whoami&theme=midnight-purple&hide_border=true"/></a><br>
 </p>
 
 ---
