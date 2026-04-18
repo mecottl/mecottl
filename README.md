@@ -61,7 +61,7 @@ Construyo soluciones tecnológicas enfocadas en eficiencia, organización y dise
 <td align="center" width="250">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40"/>
 <img src="https://cdn.simpleicons.org/express/ffffff" height="40"/>
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" />
           
 </td>
