@@ -31,10 +31,9 @@ Construyo soluciones tecnológicas enfocadas en eficiencia, organización y dise
 ---
 
 ## Tech Stack
-
-<table align="center" >
+<table align="center">
 <tr>
-<td align="center"><strong>Languages</strong></td>
+<td align="center"><strong>Core Languages</strong></td>
 <td align="center"><strong>Frontend</strong></td>
 <td align="center"><strong>Backend</strong></td>
 </tr>
@@ -49,21 +48,36 @@ Construyo soluciones tecnológicas enfocadas en eficiencia, organización y dise
 </td>
 
 <td align="center" width="250">
+
+<!-- Core -->
+<p><strong>Core</strong></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40"/>
+
+<!-- Frameworks -->
+<p><strong>Frameworks</strong></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40"/>
-<img src="https://user-images.githubusercontent.com/59144946/276976456-4a5e1cbc-2d4e-439f-875b-8fb4bdc8c15e.png" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40"/>
+
+<!-- UI -->
+<p><strong>UI / Styling</strong></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+
 </td>
 
 <td align="center" width="250">
+
+<!-- Runtime -->
+<p><strong>Runtime</strong></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40"/>
+
+<!-- Frameworks -->
+<p><strong>Frameworks</strong></p>
 <img src="https://cdn.simpleicons.org/express/ffffff" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40"/>
+
 </td>
 </tr>
 </table>
@@ -73,34 +87,47 @@ Construyo soluciones tecnológicas enfocadas en eficiencia, organización y dise
 <table align="center">
 <tr>
 <td align="center"><strong>Databases</strong></td>
-<td align="center"><strong>Tools</strong></td>
+<td align="center"><strong>Dev Ecosystem</strong></td>
 <td align="center"><strong>Design</strong></td>
 </tr>
 
 <tr>
 <td align="center" width="250">
+
+<p><strong>SQL</strong></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40"/>
+
+<p><strong>BaaS / ORM</strong></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40"/>
 <img src="https://www.prisma.io/favicon.ico?favicon.f8f1f26e.ico" height="40"/>
-  
+
 </td>
 
 <td align="center" width="250">
+
+<p><strong>Version Control</strong></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/>
 <img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="40"/>
+
+<p><strong>Package Managers</strong></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40"/>  
-  
+
+<p><strong>API / Query</strong></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="40"/>
-          
+
+<p><strong>Build & Deploy</strong></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40"/>
 <img src="https://vercel.com/favicon.ico" height="40"/>
+
+<p><strong>IDE</strong></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40"/>
+
 </td>
 
 <td align="center" width="250">
