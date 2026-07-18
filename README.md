@@ -22,10 +22,10 @@ Construyo soluciones tecnológicas enfocadas en eficiencia, organización y dise
 ## Proyectos principales
 
 <p align="center">
-<a href="https://github.com/mecottl/app-recurstack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mecottl&repo=app-recurstack&theme=midnight-purple&hide_border=true"/></a>
-<a href="https://github.com/mecottl/app-noteflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mecottl&repo=noteflow&theme=midnight-purple&hide_border=true"/></a> 
-<a href="https://github.com/mecottl/app-mayacleanpos"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mecottl&repo=mayacleanpos&theme=midnight-purple&hide_border=true"/></a>
-<a href="https://github.com/mecottl/app-whoami"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mecottl&repo=app-whoami&theme=midnight-purple&hide_border=true"/></a><br>
+<a href="https://github.com/mecottl/app-recurstack"><img src="https://github-stats-extended.vercel.app/api/pin/?username=mecottl&repo=app-recurstack&theme=midnight-purple&hide_border=true"/></a>
+<a href="https://github.com/mecottl/app-noteflow"><img src="https://github-stats-extended.vercel.app/api/pin/?username=mecottl&repo=noteflow&theme=midnight-purple&hide_border=true"/></a> 
+<a href="https://github.com/mecottl/app-mayacleanpos"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=mecottl&repo=mayacleanpos&theme=midnight-purple&hide_border=true"/></a>
+<a href="https://github.com/mecottl/app-whoami"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=mecottl&repo=app-whoami&theme=midnight-purple&hide_border=true"/></a><br>
 </p>
 
 ---
@@ -143,8 +143,8 @@ Construyo soluciones tecnológicas enfocadas en eficiencia, organización y dise
 ## Stadisticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mecottl&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mecottl&theme=midnight-purple&hide_border=true&layout=compact" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=mecottl&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mecottl&theme=midnight-purple&hide_border=true&layout=compact" height="160"/>
 </p>
 
 <p align="center">
