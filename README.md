@@ -58,6 +58,8 @@ Construyo soluciones tecnológicas enfocadas en eficiencia, organización y dise
 <p><strong>Frameworks</strong></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="40" />
+          
 
 <!-- UI -->
 <p><strong>UI / Styling</strong></p>
